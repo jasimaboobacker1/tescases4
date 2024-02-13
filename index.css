@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar{
+    width: 100%;
+    height: 70px;
+    background-color:black;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    color: white;
+}
+.menus{
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.landing{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(35, 196, 35);
+    color: white;
+}
+
+.cont{
+    width: 100%;
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    
+}
+
+.container{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.text{
+    width: 1300px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 5px;
+ 
+}
+.cards{
+    width: 1300px;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+.card{
+    width: 350px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+.third-section{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+   background-color: rgb(249, 176, 5);
+   
+}
+.containner{
+    width: 1300px;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+.boxes{
+    width: 350px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.footer{
+    width: 100%;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
